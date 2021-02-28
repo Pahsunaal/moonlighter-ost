@@ -369,8 +369,11 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2238,7 +2241,7 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 180</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 180</b></text>
             </Tempo>
           <Spanner type="Pedal">
             <prev>
