@@ -2833,16 +2833,22 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
